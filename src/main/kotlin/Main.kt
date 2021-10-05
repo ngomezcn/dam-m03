@@ -128,39 +128,6 @@ fun createDummyString(repeat : Int, alpha : Char) : String {
     return alpha.toString().repeat(repeat)
 }
 
-fun buildBaseCanvas()
-{
-
-}
-
-fun generateCanvas()
-{
-    print("\u001b[H\u001b[2J")
-
-    val size : Int = 15
-    val fixSize : Int = 3
-
-    val marginCanvas : String = createDummyString(size*fixSize, '#')
-    var generalCanvas : String = "#"
-
-    for (i in 1 until size*3) {
-
-        if(i == (size*fixSize)-1) {
-            generalCanvas = "$generalCanvas#"
-        }
-        else {
-
-            generalCanvas += " "
-        }
-    }
-
-    println(marginCanvas)
-    for (i in 1 until size) {
-        println(generalCanvas)
-    }
-    println(marginCanvas)
-}
-
 class Frame(val height : Int, val width : Int, val player : Robot)
 {
 
@@ -207,7 +174,7 @@ fun main(){
     MrRobot.Position.goDown()
     MrRobot.Position.goRight()
     MrRobot.shoot()*/
-    
+
     val player = Robot(nickname = "Elliot", color = "verde")
 
     generateCanvas()
