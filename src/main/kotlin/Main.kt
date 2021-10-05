@@ -1,3 +1,12 @@
+import org.w3c.dom.events.UIEvent
+import java.awt.event.KeyEvent
+import java.awt.event.KeyListener
+import java.util.*
+import org.w3c.dom.events.EventListener
+import java.awt.event.InputEvent
+import java.security.Key
+import javax.sql.rowset.serial.SQLInputImpl
+
 class GamePhysics()
 {
     fun calculate_hit(positionBullet : Position) : Boolean
@@ -119,6 +128,10 @@ fun createDummyString(repeat : Int, alpha : Char) : String {
     return alpha.toString().repeat(repeat)
 }
 
+fun buildBaseCanvas()
+{
+
+}
 
 fun generateCanvas()
 {
@@ -148,25 +161,60 @@ fun generateCanvas()
     println(marginCanvas)
 }
 
+class Frame(val height : Int, val width : Int, val player : Robot)
+{
+
+    var topAndDownBorder : String = ""
+    var filling : String = ""
+
+    fun makeCanvas()
+    {
+        topAndDownBorder = "#".toString().repeat(width)
+        filling += "#"
+
+        for (i in 1 until width-1)
+        {
+            filling += " "
+        }
+        filling += "#"
+
+    }
+
+    fun drawVirginFrame()
+    {
+        print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+        println("Health: 100")
+        println(topAndDownBorder)
+        for (i in 1 until height)
+        {
+            print(filling + "\n")
+        }
+        println(topAndDownBorder)
+    }
+
+    fun updateFrame()
+    {
+        print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+        drawVirginFrame()
+        Thread.sleep(500)
+    }
+}
+
 fun main(){
 
-    // Example
     /*val MrRobot = Robot(nickname = "Elliot", color = "verde")
     MrRobot.Position.goDown()
     MrRobot.Position.goDown()
     MrRobot.Position.goRight()
     MrRobot.shoot()*/
+    
+    val player = Robot(nickname = "Elliot", color = "verde")
 
     generateCanvas()
-    //print("\u001b[H\u001b[2J")
-   // val process = Runtime.getRuntime().exec("firefox")
 
-    val voidStr : String = createDummyString(500, '\n')
+    val context : Frame = Frame(height = 10, width = 50, player = player)
 
-    while (true)
-    {
-        generateCanvas()
-        Thread.sleep(1)
-        print(voidStr)
-    }
+    context.makeCanvas()
+    context.drawVirginFrame()
 }
+
