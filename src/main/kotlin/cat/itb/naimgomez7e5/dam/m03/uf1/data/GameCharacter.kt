@@ -1,3 +1,4 @@
+
 class GamePhysics()
 {
     fun calculate_hit(positionBullet : Position) : Boolean
