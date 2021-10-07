@@ -177,8 +177,6 @@ fun main(){
 
     val player = Robot(nickname = "Elliot", color = "verde")
 
-    generateCanvas()
-
     val context : Frame = Frame(height = 10, width = 50, player = player)
 
     context.makeCanvas()
