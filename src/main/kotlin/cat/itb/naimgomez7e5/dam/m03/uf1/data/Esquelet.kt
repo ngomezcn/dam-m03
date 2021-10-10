@@ -5,9 +5,9 @@ import java.util.*
 
 val scanner: Scanner = Scanner(System.`in`).useLocale(Locale.UK)
 fun main() {
-    //welcome("TrainingAssistant") // change it as you need
-    //ageCalculator()
-    //imcCalculator()
+    welcome("TrainingAssistant") // change it as you need
+    ageCalculator()
+    imcCalculator()
     trainingSchedule()
 }
 
@@ -47,23 +47,31 @@ fun trainingSchedule() {
     println("I'll tell you your training plan.\n" +
             "I'll tell you your training plan.\n" +
             "How many hours would you like to train?")
+    val hours : Int = scanner.nextInt()
 
     println("How many days can you train?")
-    //val dias : Int = scanner.nextInt()
+    val days : Int = scanner.nextInt()
 
     println("Your routine sport could be:")
-    //val horas : Int = scanner.nextInt()
-    val dias = 9
-    val horas = 3
 
+    //var hours = 9
+    //var days = 3
 
-    var daysRes1 = (dias%horas)-(horas-dias) // I have no idea how it works :,)
-    if(daysRes1 < 0)
+    val dResult1 = hours%days
+    val dResult2 = days-dResult1
+
+    var hResult1 = hours/days
+    hResult1 += 1
+
+    val hResult2 = hours/days
+
+    if(hResult1 > hResult2)
     {
-        daysRes1 *= -1
+        println("$dResult1 days $hResult1 hours")
+        println("$dResult2 days $hResult2 hours")
+    }else
+    {
+        println("$dResult2 days $hResult2 hours")
+        println("$dResult1 days $hResult1 hours")
     }
-    var daysRes2 = dias - daysRes1
-
-    println("$daysRes1 days ?? hours")
-    println("$daysRes2 days ?? hours")
 }
