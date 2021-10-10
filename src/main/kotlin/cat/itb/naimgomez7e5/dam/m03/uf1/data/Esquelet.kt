@@ -48,16 +48,14 @@ fun trainingSchedule() {
             "I'll tell you your training plan.\n" +
             "How many hours would you like to train?")
 
-    //val hours : Int = scanner.nextInt()
     println("How many days can you train?")
-   // val days : Int = scanner.nextInt()
+    //val dias : Int = scanner.nextInt()
+
     println("Your routine sport could be:")
+    //val horas : Int = scanner.nextInt()
+    val dias = 9
+    val horas = 3
 
-    var horas = 20
-    var dias = 7
-
-    // 1 days ? hours
-    // 2 days ? hours
 
     var daysRes1 = (dias%horas)-(horas-dias) // I have no idea how it works :,)
     if(daysRes1 < 0)
@@ -66,12 +64,6 @@ fun trainingSchedule() {
     }
     var daysRes2 = dias - daysRes1
 
-    var test1  : Float = -777.0f
-    var other : Float = 0.0f
-
-
-
-    println("TEST: " + test1 )
-    println("$daysRes1 days $test1 hours")
-    println("$daysRes2 days $other hours")
+    println("$daysRes1 days ?? hours")
+    println("$daysRes2 days ?? hours")
 }
