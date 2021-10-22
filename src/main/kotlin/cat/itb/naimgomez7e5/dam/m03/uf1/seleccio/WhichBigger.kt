@@ -8,11 +8,11 @@ fun main()
 
     if(a > b)
     {
-        print(a)
+        println(a)
     }
     else
     {
-        print(b)
+        println(b)
     }
 
 }
