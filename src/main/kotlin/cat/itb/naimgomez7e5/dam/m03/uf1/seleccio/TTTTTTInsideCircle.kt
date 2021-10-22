@@ -22,7 +22,6 @@ fun main()
     val r : Double = 10.0*/
 
 
-
     val distance = sqrt((x - a).pow(2.0) + (y-b).pow(2.0));
 
     if(distance < r)
