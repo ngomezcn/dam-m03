@@ -3,6 +3,7 @@ import java.util.*
 
 fun main()
 {
+
     val scan = Scanner(System.`in`)
     val num1 = scan.nextInt()
     val num2 = scan.nextInt()
