@@ -1,11 +1,11 @@
 package cat.itb.naimgomez7e5.dam.m03.uf1.seleccio.exam
-
+// z
 import java.util.*
 
 fun main()
 {
-    // vedell: menor de 2, sino adult
-    // adults: vaca si femella, toro/bou si mascle
+    // vedell: menor de 2, else adult
+    // adults: vala si femella, toro/bou si mascle
     // diff: bou capat, toro no
 
     val scan = Scanner(System.`in`)
