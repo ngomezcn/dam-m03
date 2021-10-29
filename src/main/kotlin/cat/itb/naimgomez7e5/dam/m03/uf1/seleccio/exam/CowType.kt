@@ -14,23 +14,14 @@ fun main()
     val capat = scan.nextInt()
 
     // Vedell
-    if(age<2)
-    {
-        println("vedell")
-    }
-    else if(gender == 2)
-    {
-        println("vaca")
-    }
-    else
-    {
-        if(capat == 1)
-        {
-            println("bou")
-        }
-        else if(capat == 2)
-        {
-            println("toro")
+    var type:String
+    if(age<2) type="vedell"
+    else {
+        if(gender == 2) type="vaca"
+        else {
+            if(capat == 1) type="bou"
+            else type="toro"
         }
     }
+    println(type)
 }

@@ -7,16 +7,13 @@ fun main()
 {
     val v = Scanner(System.`in`).nextInt()
 
-    if(v > 140)
-    {
+    if(v > 140) {
     println("Multa greu")
     }
-    else if(v > 120)
-    {
+    else if(v > 120) {
         print("Multa lleu")
     }
-    if(v <= 120)
-    {
+    else {
         print("Correcte")
     }
 

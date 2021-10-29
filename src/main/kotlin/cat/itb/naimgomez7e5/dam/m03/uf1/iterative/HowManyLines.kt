@@ -7,12 +7,11 @@ fun main()
     var counter = 0;
     var line = ""
 
-    while (line != "END")
+    while (!line.equals("END"))
     {
         counter += 1
         line = Scanner(System.`in`).nextLine();
     }
-
 
     print(counter-1)
 }
