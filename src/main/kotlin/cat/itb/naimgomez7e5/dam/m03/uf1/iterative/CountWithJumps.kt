@@ -9,7 +9,7 @@ fun main()
     val salt = scan.nextInt()
 
     var i = 1
-    while (i<= final)
+    while (i <= final)
     {
         println(i)
         i += salt
