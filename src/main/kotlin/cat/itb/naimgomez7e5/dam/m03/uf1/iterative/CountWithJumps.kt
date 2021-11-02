@@ -4,14 +4,16 @@ import java.util.*
 
 fun main()
 {
-    var input = Scanner(System.`in`).nextInt()
+    val scan = Scanner(System.`in`)
+    val final = scan.nextInt()
+    val salt = scan.nextInt()
 
-    while (input < 1 || input > 5)
+    var i = 1
+    while (i<= final)
     {
-        input = Scanner(System.`in`).nextInt()
-        print("El número introduït: $input, substituint el $input pel número.\n")
+        println(i)
+        i += salt
     }
-    print("El número introduït: $input")
 }
 
 
