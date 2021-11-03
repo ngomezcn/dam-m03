@@ -1,5 +1,5 @@
 package cat.itb.naimgomez7e5.dam.m03.uf1.iterative
-
+// xd lol 4k
 import java.util.*
 
 fun main()
