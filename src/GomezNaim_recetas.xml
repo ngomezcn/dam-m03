@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "GomezNaim_recetas.dtd">
+<recetas autor="Naïm Gómez I Cano">
+    <receta idReceta="R1" fechaAlta="">
+        <nombre>HotCake</nombre>
+        <categoria>
+            <subCategoria>Cena</subCategoria>
+        </categoria>
+        <infoGeneral>
+            <foto>https://img-global.cpcdn.com/recipes/c654f6eec7d27e3c/680x482cq70/hotcakes-en-4-pasos-foto-principal.webp</foto>
+            <enlace>https://cookpad.com/es/recetas/729859-hotcakes-en-4-pasos</enlace>
+            <comensales>1</comensales>
+            <tiempo unidadDeTiempo="MINUTOS">2</tiempo>
+            <dificultad>Facil</dificultad>
+            <descripcion>Un HotCake (panqueque) es una especie de crepe, a menudo delgado y redondo, preparado a partir de una pasta de almidón que puede contener huevos, leche y mantequilla y cocido sobre una superficie caliente, como una plancha o sartén, a menudo friendo con aceite o mantequilla .</descripcion>
+        </infoGeneral>
+        <ingredientes>
+            <ingrediente cantidad="200" unidadDeMedida="gramos">harina</ingrediente>
+            <ingrediente cantidad="180 " unidadDeMedida="mililitro.">leche</ingrediente>
+            <ingrediente cantidad="1" unidadDeMedida="sobre">polvo de hornear</ingrediente>
+            <ingrediente cantidad="3" unidadDeMedida="chuchara">harina</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso orden="p1">Colocamos todos los ingredientes secos en un bowl previamente tamizados.</paso>
+            <paso orden="hp2">Una vez en el recipiente, colocamos el huevo, la leche y la cdta de vainilla.</paso>
+            <paso orden="hp3">Batimos a mano durante 2 minutitos hasta que veamos que se integró todo.</paso>
+            <paso orden="hp4">Colocamos un sartén a fuego lento y dejamos que caliente. Una vez hecho, ponemos un poco de manteca y echamoa un poco de la mezcla. Vas a ver que rapidísimo se hacen unos globitos en la mezcla, esa es la indicación que lo tenés que dar vuelta. Y hacemos lo mismo.</paso>
+        </preparacion>
+    </receta>
+    <receta idReceta="R2" fechaAlta="">
+        <nombre>Pizza</nombre>
+        <categoria>
+            <subCategoria>Desayuno</subCategoria>
+        </categoria>
+        <infoGeneral>
+            <foto>https://www.cocinafacilyelaborada.com/wp-content/uploads/2016/10/pizza-facil.jpg</foto>
+            <enlace>https://www.cocinafacilyelaborada.com/como-hacer-una-pizza-facil-en-4-pasos/</enlace>
+            <comensales>4</comensales>
+            <tiempo unidadDeTiempo="MINUTOS">18</tiempo>
+            <dificultad>Facil</dificultad>
+            <descripcion>La pizza será seguramente una de las recetas más populares de todo el mundo, le ha dado fama universal a la cocina italiana.</descripcion>
+        </infoGeneral>
+        <ingredientes>
+            <ingrediente cantidad="30" unidadDeMedida="gramo">aceite</ingrediente>
+            <ingrediente cantidad="200" unidadDeMedida="mililitro">agua</ingrediente>
+            <ingrediente cantidad="50" unidadDeMedida="mililitro">leche</ingrediente>
+            <ingrediente cantidad="400" unidadDeMedida="gramo">harina</ingrediente>
+            <ingrediente cantidad="35" unidadDeMedida="gramo">harina de maiz</ingrediente>
+            <ingrediente cantidad="20" unidadDeMedida="gramo">levadura</ingrediente>
+
+        </ingredientes>
+        <preparacion>
+            <paso orden="pp1">Preparamos la masa. En un vaso de batidora ponemos el aceite y el agua. batimos durante 30 segundos, añadimos la levadura y batimos 30 segundos más. Incorporamos la leche, harina de trigo y de maíz y batimos con varilla o amasamos a mano en un bol grande hasta que consigamos una masa uniforme y sin grumos (6-8 minutos de amasado). Dejamos en un cuenco tapado con un paño para que doble el tamaño, al menos 1-2 horas).</paso>
+            <paso orden="pp2">Extendemos la masa. En una superficie grande para trabajar, por ejemplo la encimera de la cocina, limpia y seca, con un poco de harina espolvoreada (para poder trabajar mejor la masa), con la ayuda de un rodillo extendemos bien la mitad de la masa hasta que tenga el tamaño la bandeja de pizza que tengamos (yo uso una de unos 30 cms de diámetro y extiendo la masa fina, pero eso al gusto de cada uno,jeje). Pinchamos la superficie con un tenedor y la colocamos sobre la bandeja de pizza.</paso>
+            <paso orden="pp3">Horneamos. Metemos la pizza al horno previamente precalentado, 220 ºC unos 18 minutos.</paso>
+
+        </preparacion>
+    </receta>
+</recetas>
+
+

@@ -1,0 +1,30 @@
+<!ELEMENT recetas (receta,receta+)>  <!-- !Contener mas de una receta -->
+<!ATTLIST recetas
+        autor CDATA #FIXED "Naïm Gómez I Cano">
+<!ELEMENT receta (nombre,categoria,infoGeneral?,ingredientes,preparacion)>
+<!ATTLIST receta
+        idReceta ID #REQUIRED
+        fechaAlta CDATA #IMPLIED>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT categoria (#PCDATA | subCategoria)*> <!-- No he conseguido poner el elemento como ? al mismo tiempo que es mixto -->
+<!ELEMENT subCategoria (#PCDATA)>
+<!ELEMENT infoGeneral (foto*,enlace,comensales,tiempo,dificultad,descripcion?)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT enlace (#PCDATA)>
+<!ELEMENT comensales (#PCDATA)>
+<!ELEMENT tiempo (#PCDATA)>
+<!ATTLIST tiempo
+        unidadDeTiempo CDATA #REQUIRED> <!-- !Indica PUEDE, no esta limitado al rango -->
+
+<!ELEMENT dificultad (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT ingredientes (ingrediente,ingrediente,ingrediente,ingrediente+)>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ATTLIST ingrediente
+        cantidad CDATA #REQUIRED
+        unidadDeMedida CDATA #REQUIRED> <!-- !Indica PUEDE, no esta limitado al rango -->
+<!ELEMENT preparacion (paso,paso+)>
+<!ELEMENT paso (#PCDATA)>
+<!ATTLIST paso
+                orden ID #REQUIRED>  <!-- !El identificador debe ser unico (local o global?) -->

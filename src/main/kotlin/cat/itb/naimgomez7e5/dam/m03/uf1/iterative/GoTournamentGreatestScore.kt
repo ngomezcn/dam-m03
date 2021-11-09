@@ -3,6 +3,8 @@ package cat.itb.naimgomez7e5.dam.m03.uf1.iterative
 import java.lang.System.`in`
 import java.util.*
 
+class PLa
+
 fun main()
 {
     var counter = 0;
@@ -13,19 +15,17 @@ fun main()
     var maxScore: Int = 0
     while (true)
     {
-        println("name")
         val name = scan.nextLine();
         if(name == "END")
         {
             break
         }
-        println("SCORE")
-        val score = scan.nextInt();
+        val score = scan.nextLine().toInt();
 
         if(score > maxScore)
         {
-            //winner = name;
-            //maxScore = score;
+            winner = name;
+            maxScore = score;
         }
     }
     println("$winner: $maxScore")
