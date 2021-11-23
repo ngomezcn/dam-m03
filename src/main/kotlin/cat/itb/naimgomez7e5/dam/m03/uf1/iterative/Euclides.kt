@@ -6,14 +6,21 @@ import java.util.*
 fun main()
 {
     val scan = Scanner(System.`in`)
-    val A = scan.nextInt()
-    val B = scan.nextInt()
-    for (i in A..B step 1) {
-        if(i%3 == 0)
-        {
-            println(i)
-        }
+    //var a = scan.nextInt()
+    //var b = scan.nextInt()
+    var a = 61
+    var b = 24
+
+    var r = 0;
+
+    while (b!=0) {
+        r = a%b
+        a = b
+        b = r
+        println(b)
     }
+
+    print(a)
 }
 
 
