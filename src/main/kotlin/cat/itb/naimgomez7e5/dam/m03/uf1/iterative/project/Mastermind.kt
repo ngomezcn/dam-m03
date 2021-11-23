@@ -60,11 +60,18 @@ fun evaluateWord(secret: String, guess: String): Evaluation {
     var rightPosition : Int = 0;
     var wrongPosition : Int = 0;
 
-    for (i in 0 until 4)
-    {
-
+    for(i in 1..4) {
+        val checker = secret[i - 1]
+        if (guess[i - 1] == checker) {
+            rightPosition += 1
+        } else {
+            for (j in 1..4) {
+                if (guess[i - 1] == secret[j - 1]) {
+                    wrongPosition += 1
+                }
+            }
+        }
     }
-
     //Calculate your right and wrong positions and change it as you need
     return Evaluation(rightPosition,wrongPosition)
 }
