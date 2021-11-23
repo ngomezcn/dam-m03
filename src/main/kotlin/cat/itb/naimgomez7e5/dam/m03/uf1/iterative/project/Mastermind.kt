@@ -43,7 +43,7 @@ fun main() {
         if(checkMatch.rightPosition == 4)
         {
             println("Enhorabona! has guanyat")
-            break
+            break // If win, exit for and finish program.
         }
         println("Right position: ${checkMatch.rightPosition}, wrong position: ${checkMatch.wrongPosition}")
     }
@@ -57,6 +57,14 @@ fun randomChar():Char{
 }
 
 fun evaluateWord(secret: String, guess: String): Evaluation {
+    var rightPosition : Int = 0;
+    var wrongPosition : Int = 0;
+
+    for (i in 0 until 4)
+    {
+
+    }
+
     //Calculate your right and wrong positions and change it as you need
-    return Evaluation(0,0)
+    return Evaluation(rightPosition,wrongPosition)
 }
