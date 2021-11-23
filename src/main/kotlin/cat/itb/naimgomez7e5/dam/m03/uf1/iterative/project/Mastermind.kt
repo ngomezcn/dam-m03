@@ -28,7 +28,7 @@ fun main() {
     }
     if(gameMode == solo)
     {
-        for (i in 0..4)
+        repeat(4)
         {
             secretString += randomChar().toString();
         }
