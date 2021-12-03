@@ -6,6 +6,7 @@ fun main()
 {
     val scan = Scanner(System.`in`)
     var list = mutableListOf<Int>();
+
     var change = false;
     var slope_counter = 0;
 

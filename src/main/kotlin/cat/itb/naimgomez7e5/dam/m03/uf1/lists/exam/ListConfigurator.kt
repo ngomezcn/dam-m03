@@ -5,6 +5,7 @@ import java.util.*
 fun main()
 {
     var list = mutableListOf<Int>(0,0,0,0,0,0,0,0,0,0);
+
     val scan = Scanner(System.`in`)
     var input = 0;
     var index = 0;

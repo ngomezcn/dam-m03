@@ -7,6 +7,7 @@ fun main()
     val scan = Scanner(System.`in`)
     var result = 0;
 
+
     repeat(scan.nextInt())
     {
         var n = scan.nextInt();
