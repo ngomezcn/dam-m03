@@ -2,6 +2,7 @@ package cat.itb.naimgomez7e5.dam.m03.uf1.generalexam
 
 import java.util.*
 
+// Por alguna razón no admite los caracteres especiales de la práctica
 // He utilizado la siguiente matrix que es esencialmente lo mismo.
 // 0010100011
 // 0101000110
@@ -24,12 +25,6 @@ fun main() {
         matrix.add(scan.next())
     }
 
-    /*for(i in 0 .. 10){
-        for(j in 0 .. 11) {
-
-            matrix[i][j] = scan.next();
-        }
-    }*/
 
     val free = '0'
     for(i in 1 until 10){
