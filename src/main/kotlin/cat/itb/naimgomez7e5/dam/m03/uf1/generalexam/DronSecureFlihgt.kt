@@ -27,7 +27,7 @@ fun main() {
 
 
     val free = '0'
-    for(i in 1 until 10){
+    for(i in 1 until 9){
         for(j in 1 until 9){
 
             if(
