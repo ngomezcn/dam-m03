@@ -16,7 +16,6 @@ data class Rectangle(val width:Float, val height:Float, val color:Color){
     }
 }
 
-
 fun main() {
     val rectanglesFile = Path("").absolute().resolve("rectangle.json");
 
