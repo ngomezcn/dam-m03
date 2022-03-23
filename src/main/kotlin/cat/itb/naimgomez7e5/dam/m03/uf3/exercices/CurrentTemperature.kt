@@ -11,14 +11,14 @@ import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.jsonObject
 
 @Serializable
+data class Conditions (
+    @SerialName("temp") var temp : Float,
+    @SerialName("humidity") var humidity : Float)
+
+@Serializable
 data class Weather(
-    @SerialName("name") val location: String,
-    val humidity: Int,
-    val temp: Float
-    ) {}
-
-
-
+    @SerialName("name") var city : String,
+    @SerialName("main") var conditions : Conditions) {}
 
 suspend fun getJson(url : String) : String {
     val client = HttpClient(CIO){
@@ -32,7 +32,10 @@ suspend fun getJson(url : String) : String {
 suspend fun main() {
     val strignJson:String = getJson("http://api.openweathermap.org/data/2.5/weather?lat=41.390205&lon=2.154007&appid=d662e754d0671e1384f22d2d9023795d");
     println(strignJson)
-    val myJson = Json.decodeFromString<Weather>(strignJson);
-    //println(myJson.get("main"))
-    //println(myJson)
+
+    val serializer = Json{
+        ignoreUnknownKeys = true
+    }
+    val weather = serializer.decodeFromString<Weather>(strignJson);
+   println("Bon dia,\nAvui fa ${weather.conditions.temp/100}º a la ciutat de ${weather.city} amb una humitat del ${weather.conditions.humidity}%.")
 }
