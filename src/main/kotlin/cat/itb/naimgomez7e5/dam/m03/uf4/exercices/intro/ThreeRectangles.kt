@@ -4,7 +4,7 @@ import cat.itb.naimgomez7e5.dam.m03.uf4.exercices.intro.figures.*
 
 fun main() {
 
-    val rec1 = Rectangle(RED, 5, 1000);
+    val rec1 = Rectangle(GREEN, 5, 1000);
     val rec2 = Rectangle(YELLOW, 5, 1000);
     val rec3 = Rectangle(RED, 5, 1000);
 
@@ -12,3 +12,4 @@ fun main() {
     rec2.paint()
     rec3.paint()
 }
+

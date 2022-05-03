@@ -17,3 +17,4 @@ class Rectangle(val color: String, val length: Int, val width: Int) {
         return canvas;
     }
 }
+
