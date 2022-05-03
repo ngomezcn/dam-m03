@@ -1,5 +1,4 @@
 package cat.itb.naimgomez7e5.dam.m03.uf4.exam.gameenemies
-
 sealed class Enemy(internal val name: String, internal var health: Int) {
 
     /**

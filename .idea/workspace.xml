@@ -5,8 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="">
-      <change beforePath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_client_cio_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_client_core_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_client_json_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_client_serialization_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_http_cio_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_http_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_io_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_network_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_network_tls_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__io_ktor_ktor_utils_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_30.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_5_10.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_junit5_1_5_10.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_2_native_mt.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_3_2.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_json_jvm_1_3_2.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_client_cio_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_client_core_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_client_json_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_client_serialization_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_http_cio_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_http_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_io_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_network_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_network_tls_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_ktor_ktor_utils_jvm_1_6_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_junit5_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_2_native_mt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_json_jvm_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/2062699639/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/workspace.xml" beforeDir="false" afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf4/exam/gameenemies/Enemy.kt" beforeDir="false" afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf4/exam/gameenemies/Enemy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +215,7 @@
       <workItem from="1650964839987" duration="76000" />
       <workItem from="1651052749108" duration="171000" />
       <workItem from="1651562647124" duration="1912000" />
-      <workItem from="1651564570023" duration="9751000" />
+      <workItem from="1651564570023" duration="10164000" />
     </task>
     <servers />
   </component>
