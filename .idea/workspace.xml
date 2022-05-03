@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="">
+      <change beforePath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26pESFGk5oOSHSS6Pme1kDBkCsK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/sjo/Escriptori/DADES/dades/ngomez/Programacion/naimgomez7e5-dam-m03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf4/mottto" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cat.itb.naimgomez7e5.dam.m03.uf4.mottto" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="cat.itb.naimgomez7e5.dam.m03.uf4.exam.magazine" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MagazineAppKt">
+    <configuration name="GameEnemiesAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exam.gameenemies.GameEnemiesAppKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagazineAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exam.magazine.MagazineAppKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentWithTextGradeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exercices.enum.StudentWithTextGradeKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamMottoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exercices.motto.TeamMottoKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZzKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exercices.intro.ZzKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MagazineAppKt" />
+        <item itemvalue="Kotlin.GameEnemiesAppKt" />
+        <item itemvalue="Kotlin.TeamMottoKt" />
+        <item itemvalue="Kotlin.ZzKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="" />
+      <created>1648112124663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648112124663</updated>
+      <workItem from="1648112125757" duration="7989000" />
+      <workItem from="1648713278382" duration="1392000" />
+      <workItem from="1648715016426" duration="454000" />
+      <workItem from="1648715478965" duration="2123000" />
+      <workItem from="1648794616467" duration="2620000" />
+      <workItem from="1649318564215" duration="142000" />
+      <workItem from="1650960131776" duration="421000" />
+      <workItem from="1650964839987" duration="76000" />
+      <workItem from="1651052749108" duration="171000" />
+      <workItem from="1651562647124" duration="1912000" />
+      <workItem from="1651564570023" duration="9751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="worksssss" />
+    <MESSAGE value="exam push" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam push" />
+  </component>
+</project>
