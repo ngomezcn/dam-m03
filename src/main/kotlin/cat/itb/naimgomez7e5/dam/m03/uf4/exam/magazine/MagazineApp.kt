@@ -18,7 +18,6 @@ fun main(){
         article.print(printer)
 }
 
-
 /**
  * Printer that prints on the console
  */
