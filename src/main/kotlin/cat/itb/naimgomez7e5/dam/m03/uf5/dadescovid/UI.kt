@@ -1,9 +1,7 @@
 package cat.itb.naimgomez7e5.dam.m03.uf5.dadescovid
 
-class UI {
-    private val printer = Printer();
-    private val covidStatsApp =  CovidStatsApp(printer);
-
+class App {
+    private val covidStatsApp =  CovidStatsApp();
     suspend fun start() {
         covidStatsApp.loadData()
         covidStatsApp.run()
@@ -11,6 +9,6 @@ class UI {
 }
 
 suspend fun main() {
-    val ui = UI();
-    ui.start();
+    val application = App();
+    application.start();
 }
