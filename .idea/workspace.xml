@@ -5,34 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="exam push">
-      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/732963007/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/MathematicExpression.kt" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/Mine.kt" afterDir="false" />
+      <change afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/ShowDataPlayer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/MathematicExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/Mine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exercices/generales/ShowDataPlayer.kt" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/gradle.xml" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules.xml" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules.xml" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/naimgomez7e5-dam-m03.iml" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/naimgomez7e5-dam-m03.main.iml" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/modules/naimgomez7e5-dam-m03.test.iml" beforeDir="false" />
       <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/workspace.xml" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp$loadData$1.class" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp$loadData$1.class" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp.class" beforeDir="false" afterPath="/dades/dades/ngomez/Prog/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/naimgomez7e5-dam-m03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/naimgomez7e5-dam-m03.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/naimgomez7e5-dam-m03.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp$loadData$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp$loadData$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/CovidStatsApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -82,20 +86,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sjo/Escriptori/DADES/ngomez/Prog/naimgomez7e5-dam-m03",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sjo/Escriptori/DADES/ngomez/Prog/naimgomez7e5-dam-m03&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="/dades/dades/ngomez/Programacion/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf4/mottto" />
@@ -110,31 +115,38 @@
       <recent name="cat.itb.naimgomez7e5.dam.m03.uf4.exam.magazine" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.UIKt">
-    <configuration name="CarByPlateNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.tads.CarByPlateNumberKt" />
-      <module name="naimgomez7e5-dam-m03.main" />
+  <component name="RunManager" selected="Kotlin.PalindromKt">
+    <configuration name="MathematicExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.generales.MathematicExpressionKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CovidStatsAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.dadescovid.CovidStatsAppKt" />
-      <module name="naimgomez7e5-dam-m03.main" />
+    <configuration name="MineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.generales.MineKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagazineAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf4.exam.magazine.MagazineAppKt" />
-      <module name="naimgomez7e5-dam-m03.main" />
+    <configuration name="PalindromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.generales.PalindromKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolDelegatVotingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="SchoolDelegatVotingKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.tads.SchoolDelegatVotingKt" />
-      <module name="naimgomez7e5-dam-m03.main" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowDataPlayerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.exercices.generales.ShowDataPlayerKt" />
+      <module name="me.sjo.naimgomez7e5-dam-m03.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,33 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cat.itb.naimgomez7e5.dam.m03.uf5.dadescovid.UIKt" />
-      <module name="naimgomez7e5-dam-m03.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="me.sjo.naimgomez7e5-dam-m03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="me.sjo.naimgomez7e5-dam-m03" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.UIKt" />
-        <item itemvalue="Kotlin.CovidStatsAppKt" />
-        <item itemvalue="Kotlin.MagazineAppKt" />
-        <item itemvalue="Kotlin.CarByPlateNumberKt" />
-        <item itemvalue="Kotlin.SchoolDelegatVotingKt" />
+        <item itemvalue="Kotlin.PalindromKt" />
+        <item itemvalue="Kotlin.ShowDataPlayerKt" />
+        <item itemvalue="Kotlin.MathematicExpressionKt" />
+        <item itemvalue="Kotlin.MineKt" />
+        <item itemvalue="Kotlin.SchoolDelegatVotingKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +192,10 @@
       <workItem from="1652721910626" duration="813000" />
       <workItem from="1653312720980" duration="2317000" />
       <workItem from="1653323094934" duration="8888000" />
-      <workItem from="1653372830782" duration="671000" />
+      <workItem from="1653372830782" duration="784000" />
+      <workItem from="1653373622857" duration="2940000" />
+      <workItem from="1653376587963" duration="4184000" />
+      <workItem from="1653380898416" duration="423000" />
     </task>
     <servers />
   </component>
