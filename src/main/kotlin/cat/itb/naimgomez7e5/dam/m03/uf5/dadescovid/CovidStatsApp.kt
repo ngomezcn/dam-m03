@@ -11,6 +11,7 @@ class CovidStatsApp(private val ui: Printer) {
 
     private fun top10Deaths() {
         covidData.countries.sortByDescending { it.totalDeaths }
+        //val a = covidData.countries.sortedWith(Comparator { o1, o2 -> o1.totalDeaths.compareTo(o2.totalDeaths)   })
         val orderedMapByDeaths : Map<String?, Int?> = covidData.countries.associate { it.country to it.totalDeaths }
 
         ui.printTitle("Most deaths")
