@@ -90,7 +90,7 @@ class UI(val scanner: Scanner) {
 }
 
 fun main() {
-    val scanner = Scanner(System.`in`)
+    val scanner = Scanner(System.`in`).useLocale(Locale.US)
     val ui = UI(scanner)
     ui.start()
 }
