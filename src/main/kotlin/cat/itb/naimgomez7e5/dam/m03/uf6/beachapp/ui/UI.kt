@@ -5,6 +5,7 @@ import cat.itb.naimgomez7e5.dam.m03.uf6.beachapp.data.BeachDAOS
 import cat.itb.naimgomez7e5.dam.m03.uf6.beachapp.data.Database
 import cat.itb.naimgomez7e5.dam.m03.uf6.beachapp.models.Beach
 import java.nio.file.Paths
+import java.text.DecimalFormat
 import java.util.*
 
 class UI(val scanner: Scanner) {
@@ -35,10 +36,8 @@ class UI(val scanner: Scanner) {
     private fun resume() {
         val beaches : List<Beach> = beachApp.listBeaches()
 
-        val a = beaches.groupBy { it.cityName }
-
-        for (i in beaches.indices) {
-            println("$i. ${beaches[i].name} (${beaches[i].waterQuality.toFloat()})")
+        beaches.groupBy { it.cityName }.entries.sortedByDescending { it -> it.value.sumOf { it.waterQuality } / it.value.size.toFloat() }.forEachIndexed { index, (city, water) ->
+            println("$index. $city (${String.format(Locale.US, "%.2f", water.sumOf { it.waterQuality} / water.size.toFloat())})")
         }
     }
 
@@ -68,7 +67,7 @@ class UI(val scanner: Scanner) {
 }
 
 fun main() {
-    val scanner = Scanner(System.`in`)
+    val scanner = Scanner(System.`in`).useLocale(Locale.US)
     val ui = UI(scanner);
     ui.start()
 }

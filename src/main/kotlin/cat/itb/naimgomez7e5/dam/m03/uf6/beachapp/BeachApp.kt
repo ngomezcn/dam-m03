@@ -28,6 +28,4 @@ class BeachApp {
         val beach = Beach(id, name, cityName, waterQuality)
         beachDAOS.insert(beach)
     }
-
-
 }

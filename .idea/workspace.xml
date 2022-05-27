@@ -4,73 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="practica ok">
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/libraries/Gradle__org_xerial_sqlite_jdbc_3_36_0_3.xml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/sample.db" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/BeachDAOS.kt" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/models/Beach.kt" afterDir="false" />
-      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xerial_sqlite_jdbc_3_36_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/-1136114806/me.sjo.naimgomez7e5-dam-m03.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/BeachDAOS.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/models/Beach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" afterDir="false" />
+    <list default="true" id="67e780fd-badb-4209-95d8-114626764070" name="Changes" comment="">
+      <change afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/beach_app.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beach_app.db" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/gradle.xml" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/modules.xml" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" afterDir="false" />
       <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/workspace.xml" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build.gradle.kts" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build.gradle.kts" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" afterDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$1.class" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1$1$1.class" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1$1.class" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1.class" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/UIKt$main$2.class" beforeDir="false" />
-      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/UIKt.class" beforeDir="false" />
+      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exam/SecretAgents/UI.kt" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf5/exam/SecretAgents/UI.kt" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" afterDir="false" />
+      <change beforePath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" beforeDir="false" afterPath="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/93456505-a25b-4046-a285-8706981eea8a.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/naimgomez7e5-dam-m03.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/Api$loadEuCountryCodes$client$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/UIKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/cat/itb/naimgomez7e5/dam/m03/uf5/dadescovid/UIKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/BeachApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data/Database.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/ui/UI.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,21 +83,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sjo/Escriptori/DADES/ngomez/naimgomez7e5-dam-m03&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="/dades/dades/ngomez/naimgomez7e5-dam-m03/src/main/kotlin/cat/itb/naimgomez7e5/dam/m03/uf6/beachapp/data" />
@@ -199,8 +162,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.UIKt (1)" />
-        <item itemvalue="Kotlin.AppKt" />
         <item itemvalue="Kotlin.UIKt" />
+        <item itemvalue="Kotlin.AppKt" />
         <item itemvalue="Kotlin.AirQualityAppKt" />
         <item itemvalue="Kotlin.PalindromKt" />
       </list>
@@ -237,7 +200,9 @@
       <workItem from="1653405710116" duration="784000" />
       <workItem from="1653407830714" duration="8438000" />
       <workItem from="1653553518155" duration="503000" />
-      <workItem from="1653554030696" duration="7475000" />
+      <workItem from="1653554030696" duration="7530000" />
+      <workItem from="1653630976874" duration="1428000" />
+      <workItem from="1653632416714" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="practica ok">
       <created>1653418404391</created>
